@@ -1,0 +1,12 @@
+var stasiundata = {
+"type": "FeatureCollection",
+"name": "Poligon_Stasiun_4326",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Nama": "RAWAMANGUN STATION", "STA As Sts": "CH. 1+011.38", "No. Pier": "P22B - P29B", "Issue": null, "Keterangan": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 106.882039902881147, -6.192993755067277 ], [ 106.883124456365195, -6.193106713154044 ], [ 106.883106963289038, -6.193293666122629 ], [ 106.882022436986702, -6.19318849514204 ], [ 106.882039902881147, -6.192993755067277 ] ] ] ] } },
+{ "type": "Feature", "properties": { "Nama": "PRAMUKA BPKP STATION", "STA As Sts": "CH.2+330.00", "No. Pier": "P56B - P63B", "Issue": null, "Keterangan": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 106.870176405218459, -6.191975355953725 ], [ 106.871268020241445, -6.191883252616594 ], [ 106.87128424934194, -6.192072683228642 ], [ 106.870200424036241, -6.192167354981784 ], [ 106.870176405218459, -6.191975355953725 ] ] ] ] } },
+{ "type": "Feature", "properties": { "Nama": "PASAR PRAMUKA STATION", "STA As Sts": "CH. 3+598.83", "No. Pier": "P96B - P103B", "Issue": null, "Keterangan": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 106.85941658111571, -6.195337018246108 ], [ 106.860318374185894, -6.194732941840897 ], [ 106.860422657634729, -6.194885724670566 ], [ 106.859516983093826, -6.195492410643221 ], [ 106.85941658111571, -6.195337018246108 ] ] ] ] } },
+{ "type": "Feature", "properties": { "Nama": "MATARAMAN STATION", "STA As Sts": "CH. 4+925.09", "No. Pier": "P136B - P143B", "Issue": null, "Keterangan": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 106.849720982940795, -6.202330142895035 ], [ 106.8506514399743, -6.201756800832295 ], [ 106.850769899884014, -6.201977025990011 ], [ 106.849860965774042, -6.202539585684921 ], [ 106.849720982940795, -6.202330142895035 ] ] ] ] } },
+{ "type": "Feature", "properties": { "Nama": "MANGGARAI STATION", "STA As Sts": "CH.5+963.56", "No. Pier": "P166B - P173B", "Issue": null, "Keterangan": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 106.845215882340526, -6.208417014050311 ], [ 106.846253244410775, -6.208744355296688 ], [ 106.846198106876969, -6.208924952891405 ], [ 106.845164644109289, -6.208600193796919 ], [ 106.845215882340526, -6.208417014050311 ] ] ] ] } }
+]
+}
